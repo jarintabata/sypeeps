@@ -1,0 +1,45 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="253219416"/>
+    <file name="team1.css" crc="401184669" ref="team1"/>
+    <file name="index.css" crc="4185113104" ref="index"/>
+    <file name="team2.css" crc="4224400941" ref="team2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:team1:team2"/>
+    <file name="museutils.js" crc="3880880085" ref="index:team1:team2"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:team1:team2"/>
+    <file name="pie.js" crc="4147615982" ref="index:team1:team2"/>
+    <file name="webpro.js" crc="33264525" ref="index:team1:team2"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="index:team1:team2"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="index:team1:team2"/>
+    <file name="touchswipe.js" crc="261777990" ref="index:team1:team2"/>
+  </folder>
+  <folder name="images">
+    <file name="closewhite.png" crc="3873803869" ref="index:team1:team2"/>
+    <file name="u13965-8.png" crc="3846307306" ref="index"/>
+    <file name="flechas.png" crc="4112109319" ref="index"/>
+    <file name="u13964-4.png" crc="521975526" ref="index"/>
+    <file name="syresource.png" crc="3993945894" ref="index:team1:team2"/>
+    <file name="foto1.jpg" crc="3861271539" ref="index:team1:team2"/>
+    <file name="addsmall.png" crc="4114396295" ref="index:team1:team2"/>
+    <file name="check.png" crc="39393643" ref="index:team1:team2"/>
+    <file name="foto8.jpg" crc="32808334" ref="index:team1:team2"/>
+    <file name="foto2.jpg" crc="452989758" ref="index:team1:team2"/>
+    <file name="foto4.jpg" crc="4255389534" ref="index:team1:team2"/>
+    <file name="foto9.jpg" crc="391553698" ref="index:team1:team2"/>
+    <file name="foto6.jpg" crc="96731871" ref="index:team1:team2"/>
+    <file name="foto3.jpg" crc="4206266332" ref="index:team1:team2"/>
+    <file name="foto7.jpg" crc="325605080" ref="index:team1:team2"/>
+    <file name="foto5.jpg" crc="3933158921" ref="index:team1:team2"/>
+    <file name="u15184-4.png" crc="4221391045" ref="team1"/>
+    <file name="backwhite.png" crc="395501115" ref="team1:team2"/>
+    <file name="closesmall.png" crc="57994521" ref="team1:team2"/>
+    <file name="u18473-4.png" crc="4110107617" ref="team1"/>
+    <file name="u16124-4.png" crc="4221391045" ref="team2"/>
+    <file name="u16260-4.png" crc="4110107617" ref="team2"/>
+  </folder>
+  <file name="index.html" crc="4102127968" mt="1392844519368" redirect="true"/>
+  <file name="team1.html" crc="4194946044" mt="1392844497849" redirect="true"/>
+  <file name="team2.html" crc="4155495704" mt="1392844497663" redirect="true"/>
+</manifest>

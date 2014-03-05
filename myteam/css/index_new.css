@@ -1,0 +1,127 @@
+.peepThumb {
+	width: 300px;
+	height: 227px;
+	float: left;
+	margin: 20px;
+	overflow: hidden;
+	position: relative;
+}
+
+.peepThumb .peepImg {
+	position: absolute;
+	width: 300px;
+	height: auto;
+	left: 0;
+	top: 0;
+	z-index: 10;
+}
+
+.peepThumb .plus {
+	overflow: hidden;
+	right: 15px;
+	position: absolute;
+	z-index: 30;
+	top: 15px;
+	
+}
+
+.peepThumb .info {
+	display: none;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 300px;
+	height: 227px;
+	z-index: 40;
+	color: #fff;
+	background-color: #f03d2d;
+	opacity: .9;
+	box-sizing: border-box;
+	padding: 20px;
+}
+
+.selected .info {
+	display: block;
+}
+
+.peepThumb .info .check {
+	overflow: hidden;
+	right: 15px;
+	position: absolute;
+	z-index: 50;
+	top: 15px;
+}
+
+.peepThumb p {
+	font-size: 1rem;
+	width:230px;
+}
+
+.peepThumb p.name {
+	font-size: 1.8rem;
+}
+
+.peepThumb .arrow {
+	position: absolute;
+	z-index: 50;
+	right: 15px;
+	bottom: 10px;
+}
+
+.clear {
+	clear: both;
+}
+
+button {
+	background-color: #f03d2d;
+	border-radius: 12px;
+	padding: 15px;
+	color: #fff;
+	font-size: 1.6rem;
+	float: right;
+	margin: 20px;
+}
+
+.peepDetailImg img {
+	width: 300px;
+	height: auto;
+}
+
+#page_position_content {
+	margin-bottom: 0;
+}
+
+body {
+	margin-bottom: 200px;
+}
+
+#pproblems a {
+	font-size: 20px;
+}
+
+ul.syNav {
+	list-style-type: none;
+	color: #fff;
+	width: 1000px;
+}
+
+ul.syNav li {
+	float: left;
+	margin-right: 50px;
+}
+
+ul.syNav li a {
+	color: #999;
+}
+
+ul.syNav li a:hover {
+	color: #fff;
+}
+
+ul.syNav li a.selected {
+	color: #fff;
+}
+
+#u14819 {
+	padding: 45px 0;	
+}
